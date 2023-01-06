@@ -1,0 +1,46 @@
+h1, h2, h3 { font-family: 'Quicksand', sans-serif; color:#a64d79;}
+
+#p1 {font-family: 'Anybody', cursive;}
+#p1 {color: white;}
+
+.fa-brands {color: #c27ba0;}
+.fa-brands:hover {color: #a64d79;}
+
+#card1 {
+    border: 2px solid #f4cccc;
+    border-radius: 20px;
+  margin: 25px auto;
+    box-shadow: 5px 5px 5px white;
+    text-align: center;
+    background-color: #f4cccc;
+    padding: 2px, auto;
+    width: 500px;
+    height: 300px;
+  }
+  #card2 {
+    border: 2px solid #f4cccc;
+    border-radius: 20px;
+  margin: 25px auto;
+    box-shadow: 5px 5px 5px white;
+    text-align: center;
+    background-color: #f4cccc;
+    padding: 2px, auto;
+    width: 500px;
+    height: 160px;
+  }
+  #card3 {
+    border: 2px solid #f4cccc;
+    border-radius: 20px;
+  margin: 25px auto;
+    box-shadow: 5px 5px 5px white;
+    text-align: center;
+    background-color: #f4cccc;
+    padding: 2px, auto;
+    width: 500px;
+    height: 135px;
+  }
+  #Pic { 
+    width: 200px;
+    height: 200px;
+  border-radius: 50%;
+}
